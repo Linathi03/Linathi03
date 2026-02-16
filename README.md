@@ -96,9 +96,9 @@ No publications yet.
 ```markdown
 [![LinkedIn])[www.linkedin.com/in/linathi-dumezweni-760669361]
 
-[![School Email])(4120379@myuwc.ac.za.com) 
+[![School Email])(4120379@myuwc.ac.za) 
 
-[![Personal Email])(linathidumezweni.com) 
+[![Personal Email])(linathidumezweni@gmail.com) 
 
 [![GitHub])[https://github.com/Linathi03]
 ```
