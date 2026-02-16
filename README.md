@@ -94,11 +94,11 @@ No publications yet.
 # 🌐 Connect With Me
 
 ```markdown
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/yourprofile](www.linkedin.com/in/linathi-dumezweni-760669361))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([www.linkedin.com/in/linathi-dumezweni-760669361]
 
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:4120379@myuwc.ac.za.com) 
 
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:linathidumezweni.com) 
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)]([https://github.com/yourusername](https://github.com/Linathi03))
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)]([[https://github.com/yourusername]
 ```
