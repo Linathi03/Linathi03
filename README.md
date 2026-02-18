@@ -15,7 +15,7 @@ Bachelor of Science in Computer Science
 March 2021 – November 2025 (Completed)
 
 🎓 **University of the Western Cape**
-BSc Honours in Computer Science
+Bachelor of Science Honours in Computer Science
 2026 – Present
 
 ---
