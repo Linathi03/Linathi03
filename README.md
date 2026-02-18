@@ -12,7 +12,9 @@ I am passionate about building practical technology solutions that improve user 
 
 🎓 **University of the Western Cape**
 Bachelor of Science in Computer Science
-March 2021 – November 2025
+March 2021 – November 2025 (Completed)
+BSc Honours in Computer Science
+2026 – Present
 
 ---
 
